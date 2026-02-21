@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="modalclaw.png" alt="ModalClaw" width="200" />
 </p>
 
 <h1 align="center">ModalClaw 🦀</h1>
@@ -12,7 +11,6 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT%20OR%20Apache%202.0-blue.svg" alt="Licence : MIT ou Apache-2.0" /></a>
   <a href="NOTICE"><img src="https://img.shields.io/badge/contributors-27+-green.svg" alt="Contributeurs" /></a>
-  <a href="https://buymeacoffee.com/argenistherose"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow.svg?style=flat&logo=buy-me-a-coffee" alt="Offrez-moi un café" /></a>
   <a href="https://x.com/modalclawlabs?s=21"><img src="https://img.shields.io/badge/X-%40modalclawlabs-000000?style=flat&logo=x&logoColor=white" alt="X : @modalclawlabs" /></a>
   <a href="https://modalclawlabs.cn/group.jpg"><img src="https://img.shields.io/badge/WeChat-Group-B7D7A8?logo=wechat&logoColor=white" alt="WeChat Group" /></a>
   <a href="https://www.xiaohongshu.com/user/profile/67cbfc43000000000d008307?xsec_token=AB73VnYnGNx5y36EtnnZfGmAmS-6Wzv8WMuGpfwfkg6Yc%3D&xsec_source=pc_search"><img src="https://img.shields.io/badge/Xiaohongshu-Official-FF2442?style=flat" alt="Xiaohongshu : Officiel" /></a>
@@ -96,7 +94,6 @@ Benchmark rapide sur machine locale (macOS arm64, fév. 2026) normalisé pour ma
 > Notes : Les résultats ModalClaw sont mesurés sur des builds de production utilisant `/usr/bin/time -l`. OpenClaw nécessite le runtime Node.js (typiquement ~390 Mo de surcharge mémoire supplémentaire), tandis que NanoBot nécessite le runtime Python. PicoClaw et ModalClaw sont des binaires statiques. Les chiffres RAM ci-dessus sont la mémoire runtime ; les exigences de compilation build-time sont plus élevées.
 
 <p align="center">
-  <img src="modalclaw.jpeg" alt="Comparaison ModalClaw vs OpenClaw" width="800" />
 </p>
 
 ### Mesure locale reproductible
@@ -808,7 +805,6 @@ Pour le déploiement et les opérations runtime :
 
 Si ModalClaw aide votre travail et que vous souhaitez soutenir le développement continu, vous pouvez faire un don ici :
 
-<a href="https://buymeacoffee.com/argenistherose"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow.svg?style=for-the-badge&logo=buy-me-a-coffee" alt="Offrez-moi un café" /></a>
 
 ### 🙏 Remerciements Spéciaux
 

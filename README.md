@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="modalclaw.png" alt="ModalClaw" width="200" />
 </p>
 
 <h1 align="center">ModalClaw 🦀</h1>
@@ -12,7 +11,6 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT%20OR%20Apache%202.0-blue.svg" alt="License: MIT OR Apache-2.0" /></a>
   <a href="NOTICE"><img src="https://img.shields.io/badge/contributors-27+-green.svg" alt="Contributors" /></a>
-  <a href="https://buymeacoffee.com/argenistherose"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow.svg?style=flat&logo=buy-me-a-coffee" alt="Buy Me a Coffee" /></a>
   <a href="https://x.com/modalclawlabs?s=21"><img src="https://img.shields.io/badge/X-%40modalclawlabs-000000?style=flat&logo=x&logoColor=white" alt="X: @modalclawlabs" /></a>
   <a href="https://modalclawlabs.cn/group.jpg"><img src="https://img.shields.io/badge/WeChat-Group-B7D7A8?logo=wechat&logoColor=white" alt="WeChat Group" /></a>
   <a href="https://www.xiaohongshu.com/user/profile/67cbfc43000000000d008307?xsec_token=AB73VnYnGNx5y36EtnnZfGmAmS-6Wzv8WMuGpfwfkg6Yc%3D&xsec_source=pc_search"><img src="https://img.shields.io/badge/Xiaohongshu-Official-FF2442?style=flat" alt="Xiaohongshu: Official" /></a>
@@ -96,7 +94,6 @@ Local machine quick benchmark (macOS arm64, Feb 2026) normalized for 0.8GHz edge
 > Notes: ModalClaw results are measured on release builds using `/usr/bin/time -l`. OpenClaw requires Node.js runtime (typically ~390MB additional memory overhead), while NanoBot requires Python runtime. PicoClaw and ModalClaw are static binaries. The RAM figures above are runtime memory; build-time compilation requirements are higher.
 
 <p align="center">
-  <img src="modalclaw.jpeg" alt="ModalClaw vs OpenClaw Comparison" width="800" />
 </p>
 
 ### Reproducible local measurement
@@ -1082,9 +1079,7 @@ For deployment and runtime operations:
 
 ## Support ModalClaw
 
-If ModalClaw helps your work and you want to support ongoing development, you can donate here:
 
-<a href="https://buymeacoffee.com/argenistherose"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow.svg?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me a Coffee" /></a>
 
 ### 🙏 Special Thanks
 
