@@ -1,5 +1,5 @@
-# ZeroClaw Robot Kit Configuration
-# Copy to ~/.zeroclaw/robot.toml
+# ModalClaw Robot Kit Configuration
+# Copy to ~/.modalclaw/robot.toml
 
 # =============================================================================
 # DRIVE SYSTEM

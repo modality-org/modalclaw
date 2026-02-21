@@ -43,15 +43,15 @@ jobs:
       - name: Generate new NOTICE file
         run: |
           cat > NOTICE << 'EOF'
-          ZeroClaw
-          Copyright 2025 ZeroClaw Labs
+          ModalClaw
+          Copyright 2025 ModalClaw Labs
 
-          This product includes software developed at ZeroClaw Labs (https://github.com/zeroclaw-labs).
+          This product includes software developed at ModalClaw Labs (https://github.com/modality-org).
 
           Contributors
           ============
 
-          The following individuals have contributed to ZeroClaw:
+          The following individuals have contributed to ModalClaw:
 
           EOF
 

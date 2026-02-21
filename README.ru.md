@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="zeroclaw.png" alt="ZeroClaw" width="200" />
+  <img src="modalclaw.png" alt="ModalClaw" width="200" />
 </p>
 
-<h1 align="center">ZeroClaw 🦀（Русский）</h1>
+<h1 align="center">ModalClaw 🦀（Русский）</h1>
 
 <p align="center">
   <strong>Zero overhead. Zero compromise. 100% Rust. 100% Agnostic.</strong>
@@ -12,13 +12,13 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT%20OR%20Apache%202.0-blue.svg" alt="License: MIT OR Apache-2.0" /></a>
   <a href="NOTICE"><img src="https://img.shields.io/badge/contributors-27+-green.svg" alt="Contributors" /></a>
   <a href="https://buymeacoffee.com/argenistherose"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow.svg?style=flat&logo=buy-me-a-coffee" alt="Buy Me a Coffee" /></a>
-  <a href="https://x.com/zeroclawlabs?s=21"><img src="https://img.shields.io/badge/X-%40zeroclawlabs-000000?style=flat&logo=x&logoColor=white" alt="X: @zeroclawlabs" /></a>
-  <a href="https://zeroclawlabs.cn/group.jpg"><img src="https://img.shields.io/badge/WeChat-Group-B7D7A8?logo=wechat&logoColor=white" alt="WeChat Group" /></a>
+  <a href="https://x.com/modalclawlabs?s=21"><img src="https://img.shields.io/badge/X-%40modalclawlabs-000000?style=flat&logo=x&logoColor=white" alt="X: @modalclawlabs" /></a>
+  <a href="https://modalclawlabs.cn/group.jpg"><img src="https://img.shields.io/badge/WeChat-Group-B7D7A8?logo=wechat&logoColor=white" alt="WeChat Group" /></a>
   <a href="https://www.xiaohongshu.com/user/profile/67cbfc43000000000d008307?xsec_token=AB73VnYnGNx5y36EtnnZfGmAmS-6Wzv8WMuGpfwfkg6Yc%3D&xsec_source=pc_search"><img src="https://img.shields.io/badge/Xiaohongshu-Official-FF2442?style=flat" alt="Xiaohongshu: Official" /></a>
-  <a href="https://t.me/zeroclawlabs"><img src="https://img.shields.io/badge/Telegram-%40zeroclawlabs-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram: @zeroclawlabs" /></a>
-  <a href="https://t.me/zeroclawlabs_cn"><img src="https://img.shields.io/badge/Telegram%20CN-%40zeroclawlabs__cn-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram CN: @zeroclawlabs_cn" /></a>
-  <a href="https://t.me/zeroclawlabs_ru"><img src="https://img.shields.io/badge/Telegram%20RU-%40zeroclawlabs__ru-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram RU: @zeroclawlabs_ru" /></a>
-  <a href="https://www.reddit.com/r/zeroclawlabs/"><img src="https://img.shields.io/badge/Reddit-r%2Fzeroclawlabs-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit: r/zeroclawlabs" /></a>
+  <a href="https://t.me/modalclawlabs"><img src="https://img.shields.io/badge/Telegram-%40modalclawlabs-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram: @modalclawlabs" /></a>
+  <a href="https://t.me/modalclawlabs_cn"><img src="https://img.shields.io/badge/Telegram%20CN-%40modalclawlabs__cn-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram CN: @modalclawlabs_cn" /></a>
+  <a href="https://t.me/modalclawlabs_ru"><img src="https://img.shields.io/badge/Telegram%20RU-%40modalclawlabs__ru-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram RU: @modalclawlabs_ru" /></a>
+  <a href="https://www.reddit.com/r/modalclawlabs/"><img src="https://img.shields.io/badge/Reddit-r%2Fmodalclawlabs-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit: r/modalclawlabs" /></a>
 </p>
 
 <p align="center">
@@ -54,30 +54,30 @@
 
 | Дата (UTC) | Уровень | Объявление | Действие |
 |---|---|---|---|
-| 2026-02-19 | _Срочно_ | Мы **не аффилированы** с `openagen/zeroclaw` и `zeroclaw.org`. Домен `zeroclaw.org` сейчас указывает на fork `openagen/zeroclaw`, и этот домен/репозиторий выдают себя за наш официальный сайт и проект. | Не доверяйте информации, бинарникам, сборам средств и «официальным» объявлениям из этих источников. Используйте только [этот репозиторий](https://github.com/zeroclaw-labs/zeroclaw) и наши верифицированные соцсети. |
-| 2026-02-21 | _Важно_ | Наш официальный сайт уже запущен: [zeroclawlabs.ai](https://zeroclawlabs.ai). Спасибо, что дождались запуска. При этом попытки выдавать себя за ZeroClaw продолжаются, поэтому не участвуйте в инвестициях, сборах средств и похожих активностях, если они не подтверждены через наши официальные каналы. | Ориентируйтесь только на [этот репозиторий](https://github.com/zeroclaw-labs/zeroclaw); также следите за [X (@zeroclawlabs)](https://x.com/zeroclawlabs?s=21), [Reddit (r/zeroclawlabs)](https://www.reddit.com/r/zeroclawlabs/), [Telegram (@zeroclawlabs)](https://t.me/zeroclawlabs), [Telegram CN (@zeroclawlabs_cn)](https://t.me/zeroclawlabs_cn), [Telegram RU (@zeroclawlabs_ru)](https://t.me/zeroclawlabs_ru) и [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67cbfc43000000000d008307?xsec_token=AB73VnYnGNx5y36EtnnZfGmAmS-6Wzv8WMuGpfwfkg6Yc%3D&xsec_source=pc_search) для официальных обновлений. |
+| 2026-02-19 | _Срочно_ | Мы **не аффилированы** с `openagen/modalclaw` и `modalclaw.org`. Домен `modalclaw.org` сейчас указывает на fork `openagen/modalclaw`, и этот домен/репозиторий выдают себя за наш официальный сайт и проект. | Не доверяйте информации, бинарникам, сборам средств и «официальным» объявлениям из этих источников. Используйте только [этот репозиторий](https://github.com/modality-org/modalclaw) и наши верифицированные соцсети. |
+| 2026-02-21 | _Важно_ | Наш официальный сайт уже запущен: [modalclawlabs.ai](https://modalclawlabs.ai). Спасибо, что дождались запуска. При этом попытки выдавать себя за ModalClaw продолжаются, поэтому не участвуйте в инвестициях, сборах средств и похожих активностях, если они не подтверждены через наши официальные каналы. | Ориентируйтесь только на [этот репозиторий](https://github.com/modality-org/modalclaw); также следите за [X (@modalclawlabs)](https://x.com/modalclawlabs?s=21), [Reddit (r/modalclawlabs)](https://www.reddit.com/r/modalclawlabs/), [Telegram (@modalclawlabs)](https://t.me/modalclawlabs), [Telegram CN (@modalclawlabs_cn)](https://t.me/modalclawlabs_cn), [Telegram RU (@modalclawlabs_ru)](https://t.me/modalclawlabs_ru) и [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67cbfc43000000000d008307?xsec_token=AB73VnYnGNx5y36EtnnZfGmAmS-6Wzv8WMuGpfwfkg6Yc%3D&xsec_source=pc_search) для официальных обновлений. |
 | 2026-02-19 | _Важно_ | Anthropic обновил раздел Authentication and Credential Use 2026-02-19. В нем указано, что OAuth authentication (Free/Pro/Max) предназначена только для Claude Code и Claude.ai; использование OAuth-токенов, полученных через Claude Free/Pro/Max, в любых других продуктах, инструментах или сервисах (включая Agent SDK), не допускается и может считаться нарушением Consumer Terms of Service. | Чтобы избежать потерь, временно не используйте Claude Code OAuth-интеграции. Оригинал: [Authentication and Credential Use](https://code.claude.com/docs/en/legal-and-compliance#authentication-and-credential-use). |
 
 ## О проекте
 
-ZeroClaw — это производительная и расширяемая инфраструктура автономного AI-агента. ZeroClaw — это **операционная система времени выполнения** для агентных рабочих процессов — инфраструктура, абстрагирующая модели, инструменты, память и выполнение, позволяя создавать агентов один раз и запускать где угодно.
+ModalClaw — это производительная и расширяемая инфраструктура автономного AI-агента. ModalClaw — это **операционная система времени выполнения** для агентных рабочих процессов — инфраструктура, абстрагирующая модели, инструменты, память и выполнение, позволяя создавать агентов один раз и запускать где угодно.
 
 - Нативно на Rust, единый бинарник, переносимость между ARM / x86 / RISC-V
 - Архитектура на Trait (`Provider`, `Channel`, `Tool`, `Memory` и др.)
 - Безопасные значения по умолчанию: pairing, явные allowlist, sandbox и scope-ограничения
 
-## Почему выбирают ZeroClaw
+## Почему выбирают ModalClaw
 
 - **Лёгкий runtime по умолчанию**: Повседневные CLI-операции и `status` обычно укладываются в несколько МБ памяти.
 - **Оптимизирован для недорогих сред**: Подходит для бюджетных плат и небольших cloud-инстансов без тяжёлой runtime-обвязки.
 - **Быстрый cold start**: Архитектура одного Rust-бинарника ускоряет запуск основных команд и daemon-режима.
 - **Портативная модель деплоя**: Единый подход для ARM / x86 / RISC-V и возможность менять providers/channels/tools.
 
-## Снимок бенчмарка (ZeroClaw vs OpenClaw, воспроизводимо)
+## Снимок бенчмарка (ModalClaw vs OpenClaw, воспроизводимо)
 
 Ниже — быстрый локальный сравнительный срез (macOS arm64, февраль 2026), нормализованный под 0.8GHz edge CPU.
 
-| | OpenClaw | NanoBot | PicoClaw | ZeroClaw 🦀 |
+| | OpenClaw | NanoBot | PicoClaw | ModalClaw 🦀 |
 |---|---|---|---|---|
 | **Язык** | TypeScript | Python | Go | **Rust** |
 | **RAM** | > 1GB | > 100MB | < 10MB | **< 5MB** |
@@ -85,10 +85,10 @@ ZeroClaw — это производительная и расширяемая �
 | **Размер бинарника** | ~28MB (dist) | N/A (скрипты) | ~8MB | **~8.8 MB** |
 | **Стоимость** | Mac Mini $599 | Linux SBC ~$50 | Linux-плата $10 | **Любое железо за $10** |
 
-> Примечание: результаты ZeroClaw получены на release-сборке с помощью `/usr/bin/time -l`. OpenClaw требует Node.js runtime; только этот runtime обычно добавляет около 390MB дополнительного потребления памяти. NanoBot требует Python runtime. PicoClaw и ZeroClaw — статические бинарники.
+> Примечание: результаты ModalClaw получены на release-сборке с помощью `/usr/bin/time -l`. OpenClaw требует Node.js runtime; только этот runtime обычно добавляет около 390MB дополнительного потребления памяти. NanoBot требует Python runtime. PicoClaw и ModalClaw — статические бинарники.
 
 <p align="center">
-  <img src="zero-claw.jpeg" alt="Сравнение ZeroClaw и OpenClaw" width="800" />
+  <img src="modalclaw.jpeg" alt="Сравнение ModalClaw и OpenClaw" width="800" />
 </p>
 
 ### Локально воспроизводимое измерение
@@ -97,23 +97,23 @@ ZeroClaw — это производительная и расширяемая �
 
 ```bash
 cargo build --release
-ls -lh target/release/zeroclaw
+ls -lh target/release/modalclaw
 
-/usr/bin/time -l target/release/zeroclaw --help
-/usr/bin/time -l target/release/zeroclaw status
+/usr/bin/time -l target/release/modalclaw --help
+/usr/bin/time -l target/release/modalclaw status
 ```
 
 Текущие примерные значения из README (macOS arm64, 2026-02-18):
 
 - Размер release-бинарника: `8.8M`
-- `zeroclaw --help`: ~`0.02s`, пик памяти ~`3.9MB`
-- `zeroclaw status`: ~`0.01s`, пик памяти ~`4.1MB`
+- `modalclaw --help`: ~`0.02s`, пик памяти ~`3.9MB`
+- `modalclaw status`: ~`0.01s`, пик памяти ~`4.1MB`
 
 ## Установка в 1 клик
 
 ```bash
-git clone https://github.com/zeroclaw-labs/zeroclaw.git
-cd zeroclaw
+git clone https://github.com/modality-org/modalclaw.git
+cd modalclaw
 ./bootstrap.sh
 ```
 
@@ -126,69 +126,69 @@ cd zeroclaw
 ### Homebrew (macOS/Linuxbrew)
 
 ```bash
-brew install zeroclaw
+brew install modalclaw
 ```
 
 ```bash
-git clone https://github.com/zeroclaw-labs/zeroclaw.git
-cd zeroclaw
+git clone https://github.com/modality-org/modalclaw.git
+cd modalclaw
 cargo build --release --locked
 cargo install --path . --force --locked
 
-zeroclaw onboard --api-key sk-... --provider openrouter
-zeroclaw onboard --interactive
+modalclaw onboard --api-key sk-... --provider openrouter
+modalclaw onboard --interactive
 
-zeroclaw agent -m "Hello, ZeroClaw!"
+modalclaw agent -m "Hello, ModalClaw!"
 
 # default: 127.0.0.1:42617
-zeroclaw gateway
+modalclaw gateway
 
-zeroclaw daemon
+modalclaw daemon
 ```
 
 ## Subscription Auth (OpenAI Codex / Claude Code)
 
-ZeroClaw поддерживает нативные профили авторизации на основе подписки (мультиаккаунт, шифрование при хранении).
+ModalClaw поддерживает нативные профили авторизации на основе подписки (мультиаккаунт, шифрование при хранении).
 
-- Файл хранения: `~/.zeroclaw/auth-profiles.json`
-- Ключ шифрования: `~/.zeroclaw/.secret_key`
+- Файл хранения: `~/.modalclaw/auth-profiles.json`
+- Ключ шифрования: `~/.modalclaw/.secret_key`
 - Формат Profile ID: `<provider>:<profile_name>` (пример: `openai-codex:work`)
 
 OpenAI Codex OAuth (подписка ChatGPT):
 
 ```bash
 # Рекомендуется для серверов/headless-окружений
-zeroclaw auth login --provider openai-codex --device-code
+modalclaw auth login --provider openai-codex --device-code
 
 # Браузерный/callback-поток с paste-фолбэком
-zeroclaw auth login --provider openai-codex --profile default
-zeroclaw auth paste-redirect --provider openai-codex --profile default
+modalclaw auth login --provider openai-codex --profile default
+modalclaw auth paste-redirect --provider openai-codex --profile default
 
 # Проверка / обновление / переключение профиля
-zeroclaw auth status
-zeroclaw auth refresh --provider openai-codex --profile default
-zeroclaw auth use --provider openai-codex --profile work
+modalclaw auth status
+modalclaw auth refresh --provider openai-codex --profile default
+modalclaw auth use --provider openai-codex --profile work
 ```
 
 Claude Code / Anthropic setup-token:
 
 ```bash
 # Вставка subscription/setup token (режим Authorization header)
-zeroclaw auth paste-token --provider anthropic --profile default --auth-kind authorization
+modalclaw auth paste-token --provider anthropic --profile default --auth-kind authorization
 
 # Команда-алиас
-zeroclaw auth setup-token --provider anthropic --profile default
+modalclaw auth setup-token --provider anthropic --profile default
 ```
 
 Запуск agent с subscription auth:
 
 ```bash
-zeroclaw agent --provider openai-codex -m "hello"
-zeroclaw agent --provider openai-codex --auth-profile openai-codex:work -m "hello"
+modalclaw agent --provider openai-codex -m "hello"
+modalclaw agent --provider openai-codex --auth-profile openai-codex:work -m "hello"
 
 # Anthropic поддерживает и API key, и auth token через переменные окружения:
 # ANTHROPIC_AUTH_TOKEN, ANTHROPIC_OAUTH_TOKEN, ANTHROPIC_API_KEY
-zeroclaw agent --provider anthropic -m "hello"
+modalclaw agent --provider anthropic -m "hello"
 ```
 
 ## Архитектура
@@ -196,12 +196,12 @@ zeroclaw agent --provider anthropic -m "hello"
 Каждая подсистема — это **Trait**: меняйте реализации через конфигурацию, без изменения кода.
 
 <p align="center">
-  <img src="docs/architecture.svg" alt="Архитектура ZeroClaw" width="900" />
+  <img src="docs/architecture.svg" alt="Архитектура ModalClaw" width="900" />
 </p>
 
 | Подсистема | Trait | Встроенные реализации | Расширение |
 |-----------|-------|---------------------|------------|
-| **AI-модели** | `Provider` | Каталог через `zeroclaw providers` (сейчас 28 встроенных + алиасы, плюс пользовательские endpoint) | `custom:https://your-api.com` (OpenAI-совместимый) или `anthropic-custom:https://your-api.com` |
+| **AI-модели** | `Provider` | Каталог через `modalclaw providers` (сейчас 28 встроенных + алиасы, плюс пользовательские endpoint) | `custom:https://your-api.com` (OpenAI-совместимый) или `anthropic-custom:https://your-api.com` |
 | **Каналы** | `Channel` | CLI, Telegram, Discord, Slack, Mattermost, iMessage, Matrix, Signal, WhatsApp, Linq, Email, IRC, Lark, DingTalk, QQ, Webhook | Любой messaging API |
 | **Память** | `Memory` | SQLite гибридный поиск, PostgreSQL-бэкенд, Lucid-мост, Markdown-файлы, явный `none`-бэкенд, snapshot/hydrate, опциональный кэш ответов | Любой persistence-бэкенд |
 | **Инструменты** | `Tool` | shell/file/memory, cron/schedule, git, pushover, browser, http_request, screenshot/image_info, composio (opt-in), delegate, аппаратные инструменты | Любая функциональность |
@@ -219,7 +219,7 @@ zeroclaw agent --provider anthropic -m "hello"
 - ✅ Поддерживается сейчас: `runtime.kind = "native"` или `runtime.kind = "docker"`
 - 🚧 Запланировано, но ещё не реализовано: WASM / edge-runtime
 
-При указании неподдерживаемого `runtime.kind` ZeroClaw завершается с явной ошибкой, а не молча откатывается к native.
+При указании неподдерживаемого `runtime.kind` ModalClaw завершается с явной ошибкой, а не молча откатывается к native.
 
 ### Система памяти (полнофункциональный поисковый движок)
 

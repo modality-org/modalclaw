@@ -1,6 +1,6 @@
-# Tham khảo lệnh ZeroClaw
+# Tham khảo lệnh ModalClaw
 
-Dựa trên CLI hiện tại (`zeroclaw --help`).
+Dựa trên CLI hiện tại (`modalclaw --help`).
 
 Xác minh lần cuối: **2026-02-20**.
 
@@ -31,60 +31,60 @@ Xác minh lần cuối: **2026-02-20**.
 
 ### `onboard`
 
-- `zeroclaw onboard`
-- `zeroclaw onboard --interactive`
-- `zeroclaw onboard --channels-only`
-- `zeroclaw onboard --api-key <KEY> --provider <ID> --memory <sqlite|lucid|markdown|none>`
-- `zeroclaw onboard --api-key <KEY> --provider <ID> --model <MODEL_ID> --memory <sqlite|lucid|markdown|none>`
+- `modalclaw onboard`
+- `modalclaw onboard --interactive`
+- `modalclaw onboard --channels-only`
+- `modalclaw onboard --api-key <KEY> --provider <ID> --memory <sqlite|lucid|markdown|none>`
+- `modalclaw onboard --api-key <KEY> --provider <ID> --model <MODEL_ID> --memory <sqlite|lucid|markdown|none>`
 
 ### `agent`
 
-- `zeroclaw agent`
-- `zeroclaw agent -m "Hello"`
-- `zeroclaw agent --provider <ID> --model <MODEL> --temperature <0.0-2.0>`
-- `zeroclaw agent --peripheral <board:path>`
+- `modalclaw agent`
+- `modalclaw agent -m "Hello"`
+- `modalclaw agent --provider <ID> --model <MODEL> --temperature <0.0-2.0>`
+- `modalclaw agent --peripheral <board:path>`
 
 ### `gateway` / `daemon`
 
-- `zeroclaw gateway [--host <HOST>] [--port <PORT>]`
-- `zeroclaw daemon [--host <HOST>] [--port <PORT>]`
+- `modalclaw gateway [--host <HOST>] [--port <PORT>]`
+- `modalclaw daemon [--host <HOST>] [--port <PORT>]`
 
 ### `service`
 
-- `zeroclaw service install`
-- `zeroclaw service start`
-- `zeroclaw service stop`
-- `zeroclaw service restart`
-- `zeroclaw service status`
-- `zeroclaw service uninstall`
+- `modalclaw service install`
+- `modalclaw service start`
+- `modalclaw service stop`
+- `modalclaw service restart`
+- `modalclaw service status`
+- `modalclaw service uninstall`
 
 ### `cron`
 
-- `zeroclaw cron list`
-- `zeroclaw cron add <expr> [--tz <IANA_TZ>] <command>`
-- `zeroclaw cron add-at <rfc3339_timestamp> <command>`
-- `zeroclaw cron add-every <every_ms> <command>`
-- `zeroclaw cron once <delay> <command>`
-- `zeroclaw cron remove <id>`
-- `zeroclaw cron pause <id>`
-- `zeroclaw cron resume <id>`
+- `modalclaw cron list`
+- `modalclaw cron add <expr> [--tz <IANA_TZ>] <command>`
+- `modalclaw cron add-at <rfc3339_timestamp> <command>`
+- `modalclaw cron add-every <every_ms> <command>`
+- `modalclaw cron once <delay> <command>`
+- `modalclaw cron remove <id>`
+- `modalclaw cron pause <id>`
+- `modalclaw cron resume <id>`
 
 ### `models`
 
-- `zeroclaw models refresh`
-- `zeroclaw models refresh --provider <ID>`
-- `zeroclaw models refresh --force`
+- `modalclaw models refresh`
+- `modalclaw models refresh --provider <ID>`
+- `modalclaw models refresh --force`
 
 `models refresh` hiện hỗ trợ làm mới danh mục trực tiếp cho các provider: `openrouter`, `openai`, `anthropic`, `groq`, `mistral`, `deepseek`, `xai`, `together-ai`, `gemini`, `ollama`, `astrai`, `venice`, `fireworks`, `cohere`, `moonshot`, `glm`, `zai`, `qwen` và `nvidia`.
 
 ### `channel`
 
-- `zeroclaw channel list`
-- `zeroclaw channel start`
-- `zeroclaw channel doctor`
-- `zeroclaw channel bind-telegram <IDENTITY>`
-- `zeroclaw channel add <type> <json>`
-- `zeroclaw channel remove <name>`
+- `modalclaw channel list`
+- `modalclaw channel start`
+- `modalclaw channel doctor`
+- `modalclaw channel bind-telegram <IDENTITY>`
+- `modalclaw channel add <type> <json>`
+- `modalclaw channel remove <name>`
 
 Lệnh trong chat khi runtime đang chạy (Telegram/Discord):
 
@@ -104,13 +104,13 @@ Channel runtime cũng theo dõi `config.toml` và tự động áp dụng thay �
 
 ### `integrations`
 
-- `zeroclaw integrations info <name>`
+- `modalclaw integrations info <name>`
 
 ### `skills`
 
-- `zeroclaw skills list`
-- `zeroclaw skills install <source>`
-- `zeroclaw skills remove <name>`
+- `modalclaw skills list`
+- `modalclaw skills install <source>`
+- `modalclaw skills remove <name>`
 
 `<source>` chấp nhận git remote (`https://...`, `http://...`, `ssh://...` và `git@host:owner/repo.git`) hoặc đường dẫn cục bộ.
 
@@ -118,43 +118,43 @@ Skill manifest (`SKILL.toml`) hỗ trợ `prompts` và `[[tools]]`; cả hai đ�
 
 ### `migrate`
 
-- `zeroclaw migrate openclaw [--source <path>] [--dry-run]`
+- `modalclaw migrate openclaw [--source <path>] [--dry-run]`
 
 ### `config`
 
-- `zeroclaw config schema`
+- `modalclaw config schema`
 
 `config schema` xuất JSON Schema (draft 2020-12) cho toàn bộ hợp đồng `config.toml` ra stdout.
 
 ### `completions`
 
-- `zeroclaw completions bash`
-- `zeroclaw completions fish`
-- `zeroclaw completions zsh`
-- `zeroclaw completions powershell`
-- `zeroclaw completions elvish`
+- `modalclaw completions bash`
+- `modalclaw completions fish`
+- `modalclaw completions zsh`
+- `modalclaw completions powershell`
+- `modalclaw completions elvish`
 
 `completions` chỉ xuất ra stdout để script có thể được source trực tiếp mà không bị lẫn log/cảnh báo.
 
 ### `hardware`
 
-- `zeroclaw hardware discover`
-- `zeroclaw hardware introspect <path>`
-- `zeroclaw hardware info [--chip <chip_name>]`
+- `modalclaw hardware discover`
+- `modalclaw hardware introspect <path>`
+- `modalclaw hardware info [--chip <chip_name>]`
 
 ### `peripheral`
 
-- `zeroclaw peripheral list`
-- `zeroclaw peripheral add <board> <path>`
-- `zeroclaw peripheral flash [--port <serial_port>]`
-- `zeroclaw peripheral setup-uno-q [--host <ip_or_host>]`
-- `zeroclaw peripheral flash-nucleo`
+- `modalclaw peripheral list`
+- `modalclaw peripheral add <board> <path>`
+- `modalclaw peripheral flash [--port <serial_port>]`
+- `modalclaw peripheral setup-uno-q [--host <ip_or_host>]`
+- `modalclaw peripheral flash-nucleo`
 
 ## Kiểm tra nhanh
 
 Để xác minh nhanh tài liệu với binary hiện tại:
 
 ```bash
-zeroclaw --help
-zeroclaw <command> --help
+modalclaw --help
+modalclaw <command> --help
 ```

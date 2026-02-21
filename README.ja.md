@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="zeroclaw.png" alt="ZeroClaw" width="200" />
+  <img src="modalclaw.png" alt="ModalClaw" width="200" />
 </p>
 
-<h1 align="center">ZeroClaw 🦀（日本語）</h1>
+<h1 align="center">ModalClaw 🦀（日本語）</h1>
 
 <p align="center">
   <strong>Zero overhead. Zero compromise. 100% Rust. 100% Agnostic.</strong>
@@ -12,13 +12,13 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT%20OR%20Apache%202.0-blue.svg" alt="License: MIT OR Apache-2.0" /></a>
   <a href="NOTICE"><img src="https://img.shields.io/badge/contributors-27+-green.svg" alt="Contributors" /></a>
   <a href="https://buymeacoffee.com/argenistherose"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow.svg?style=flat&logo=buy-me-a-coffee" alt="Buy Me a Coffee" /></a>
-  <a href="https://x.com/zeroclawlabs?s=21"><img src="https://img.shields.io/badge/X-%40zeroclawlabs-000000?style=flat&logo=x&logoColor=white" alt="X: @zeroclawlabs" /></a>
-  <a href="https://zeroclawlabs.cn/group.jpg"><img src="https://img.shields.io/badge/WeChat-Group-B7D7A8?logo=wechat&logoColor=white" alt="WeChat Group" /></a>
+  <a href="https://x.com/modalclawlabs?s=21"><img src="https://img.shields.io/badge/X-%40modalclawlabs-000000?style=flat&logo=x&logoColor=white" alt="X: @modalclawlabs" /></a>
+  <a href="https://modalclawlabs.cn/group.jpg"><img src="https://img.shields.io/badge/WeChat-Group-B7D7A8?logo=wechat&logoColor=white" alt="WeChat Group" /></a>
   <a href="https://www.xiaohongshu.com/user/profile/67cbfc43000000000d008307?xsec_token=AB73VnYnGNx5y36EtnnZfGmAmS-6Wzv8WMuGpfwfkg6Yc%3D&xsec_source=pc_search"><img src="https://img.shields.io/badge/Xiaohongshu-Official-FF2442?style=flat" alt="Xiaohongshu: Official" /></a>
-  <a href="https://t.me/zeroclawlabs"><img src="https://img.shields.io/badge/Telegram-%40zeroclawlabs-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram: @zeroclawlabs" /></a>
-  <a href="https://t.me/zeroclawlabs_cn"><img src="https://img.shields.io/badge/Telegram%20CN-%40zeroclawlabs__cn-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram CN: @zeroclawlabs_cn" /></a>
-  <a href="https://t.me/zeroclawlabs_ru"><img src="https://img.shields.io/badge/Telegram%20RU-%40zeroclawlabs__ru-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram RU: @zeroclawlabs_ru" /></a>
-  <a href="https://www.reddit.com/r/zeroclawlabs/"><img src="https://img.shields.io/badge/Reddit-r%2Fzeroclawlabs-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit: r/zeroclawlabs" /></a>
+  <a href="https://t.me/modalclawlabs"><img src="https://img.shields.io/badge/Telegram-%40modalclawlabs-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram: @modalclawlabs" /></a>
+  <a href="https://t.me/modalclawlabs_cn"><img src="https://img.shields.io/badge/Telegram%20CN-%40modalclawlabs__cn-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram CN: @modalclawlabs_cn" /></a>
+  <a href="https://t.me/modalclawlabs_ru"><img src="https://img.shields.io/badge/Telegram%20RU-%40modalclawlabs__ru-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram RU: @modalclawlabs_ru" /></a>
+  <a href="https://www.reddit.com/r/modalclawlabs/"><img src="https://img.shields.io/badge/Reddit-r%2Fmodalclawlabs-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit: r/modalclawlabs" /></a>
 </p>
 
 <p align="center">
@@ -54,30 +54,30 @@
 
 | 日付 (UTC) | レベル | お知らせ | 対応 |
 |---|---|---|---|
-| 2026-02-19 | _緊急_ | 私たちは `openagen/zeroclaw` および `zeroclaw.org` とは**一切関係ありません**。`zeroclaw.org` は現在 `openagen/zeroclaw` の fork を指しており、そのドメイン/リポジトリは当プロジェクトの公式サイト・公式プロジェクトを装っています。 | これらの情報源による案内、バイナリ、資金調達情報、公式発表は信頼しないでください。必ず[本リポジトリ](https://github.com/zeroclaw-labs/zeroclaw)と認証済み公式SNSのみを参照してください。 |
-| 2026-02-21 | _重要_ | 公式サイトを公開しました: [zeroclawlabs.ai](https://zeroclawlabs.ai)。公開までお待ちいただきありがとうございました。引き続きなりすましの試みを確認しているため、ZeroClaw 名義の投資・資金調達などの案内は、公式チャネルで確認できない限り参加しないでください。 | 情報は[本リポジトリ](https://github.com/zeroclaw-labs/zeroclaw)を最優先で確認し、[X（@zeroclawlabs）](https://x.com/zeroclawlabs?s=21)、[Reddit（r/zeroclawlabs）](https://www.reddit.com/r/zeroclawlabs/)、[Telegram（@zeroclawlabs）](https://t.me/zeroclawlabs)、[Telegram CN（@zeroclawlabs_cn）](https://t.me/zeroclawlabs_cn)、[Telegram RU（@zeroclawlabs_ru）](https://t.me/zeroclawlabs_ru) と [小紅書アカウント](https://www.xiaohongshu.com/user/profile/67cbfc43000000000d008307?xsec_token=AB73VnYnGNx5y36EtnnZfGmAmS-6Wzv8WMuGpfwfkg6Yc%3D&xsec_source=pc_search) で公式更新を確認してください。 |
+| 2026-02-19 | _緊急_ | 私たちは `openagen/modalclaw` および `modalclaw.org` とは**一切関係ありません**。`modalclaw.org` は現在 `openagen/modalclaw` の fork を指しており、そのドメイン/リポジトリは当プロジェクトの公式サイト・公式プロジェクトを装っています。 | これらの情報源による案内、バイナリ、資金調達情報、公式発表は信頼しないでください。必ず[本リポジトリ](https://github.com/modality-org/modalclaw)と認証済み公式SNSのみを参照してください。 |
+| 2026-02-21 | _重要_ | 公式サイトを公開しました: [modalclawlabs.ai](https://modalclawlabs.ai)。公開までお待ちいただきありがとうございました。引き続きなりすましの試みを確認しているため、ModalClaw 名義の投資・資金調達などの案内は、公式チャネルで確認できない限り参加しないでください。 | 情報は[本リポジトリ](https://github.com/modality-org/modalclaw)を最優先で確認し、[X（@modalclawlabs）](https://x.com/modalclawlabs?s=21)、[Reddit（r/modalclawlabs）](https://www.reddit.com/r/modalclawlabs/)、[Telegram（@modalclawlabs）](https://t.me/modalclawlabs)、[Telegram CN（@modalclawlabs_cn）](https://t.me/modalclawlabs_cn)、[Telegram RU（@modalclawlabs_ru）](https://t.me/modalclawlabs_ru) と [小紅書アカウント](https://www.xiaohongshu.com/user/profile/67cbfc43000000000d008307?xsec_token=AB73VnYnGNx5y36EtnnZfGmAmS-6Wzv8WMuGpfwfkg6Yc%3D&xsec_source=pc_search) で公式更新を確認してください。 |
 | 2026-02-19 | _重要_ | Anthropic は 2026-02-19 に Authentication and Credential Use を更新しました。条文では、OAuth authentication（Free/Pro/Max）は Claude Code と Claude.ai 専用であり、Claude Free/Pro/Max で取得した OAuth トークンを他の製品・ツール・サービス（Agent SDK を含む）で使用することは許可されず、Consumer Terms of Service 違反に該当すると明記されています。 | 損失回避のため、当面は Claude Code OAuth 連携を試さないでください。原文: [Authentication and Credential Use](https://code.claude.com/docs/en/legal-and-compliance#authentication-and-credential-use)。 |
 
 ## 概要
 
-ZeroClaw は、高速・省リソース・高拡張性を重視した自律エージェント実行基盤です。ZeroClawはエージェントワークフローのための**ランタイムオペレーティングシステム**です — モデル、ツール、メモリ、実行を抽象化し、エージェントを一度構築すればどこでも実行できるインフラストラクチャです。
+ModalClaw は、高速・省リソース・高拡張性を重視した自律エージェント実行基盤です。ModalClawはエージェントワークフローのための**ランタイムオペレーティングシステム**です — モデル、ツール、メモリ、実行を抽象化し、エージェントを一度構築すればどこでも実行できるインフラストラクチャです。
 
 - Rust ネイティブ実装、単一バイナリで配布可能
 - Trait ベース設計（`Provider` / `Channel` / `Tool` / `Memory` など）
 - セキュアデフォルト（ペアリング、明示 allowlist、サンドボックス、スコープ制御）
 
-## ZeroClaw が選ばれる理由
+## ModalClaw が選ばれる理由
 
 - **軽量ランタイムを標準化**: CLI や `status` などの常用操作は数MB級メモリで動作。
 - **低コスト環境に適合**: 低価格ボードや小規模クラウドでも、重い実行基盤なしで運用可能。
 - **高速コールドスタート**: Rust 単一バイナリにより、主要コマンドと daemon 起動が非常に速い。
 - **高い移植性**: ARM / x86 / RISC-V を同じ運用モデルで扱え、provider/channel/tool を差し替え可能。
 
-## ベンチマークスナップショット（ZeroClaw vs OpenClaw、再現可能）
+## ベンチマークスナップショット（ModalClaw vs OpenClaw、再現可能）
 
 以下はローカルのクイック比較（macOS arm64、2026年2月）を、0.8GHz エッジ CPU 基準で正規化したものです。
 
-| | OpenClaw | NanoBot | PicoClaw | ZeroClaw 🦀 |
+| | OpenClaw | NanoBot | PicoClaw | ModalClaw 🦀 |
 |---|---|---|---|---|
 | **言語** | TypeScript | Python | Go | **Rust** |
 | **RAM** | > 1GB | > 100MB | < 10MB | **< 5MB** |
@@ -85,10 +85,10 @@ ZeroClaw は、高速・省リソース・高拡張性を重視した自律エ�
 | **バイナリサイズ** | ~28MB（dist） | N/A（スクリプト） | ~8MB | **~8.8 MB** |
 | **コスト** | Mac Mini $599 | Linux SBC ~$50 | Linux ボード $10 | **任意の $10 ハードウェア** |
 
-> 注記: ZeroClaw の結果は release ビルドを `/usr/bin/time -l` で計測したものです。OpenClaw は Node.js ランタイムが必要で、ランタイム由来だけで通常は約390MBの追加メモリを要します。NanoBot は Python ランタイムが必要です。PicoClaw と ZeroClaw は静的バイナリです。
+> 注記: ModalClaw の結果は release ビルドを `/usr/bin/time -l` で計測したものです。OpenClaw は Node.js ランタイムが必要で、ランタイム由来だけで通常は約390MBの追加メモリを要します。NanoBot は Python ランタイムが必要です。PicoClaw と ModalClaw は静的バイナリです。
 
 <p align="center">
-  <img src="zero-claw.jpeg" alt="ZeroClaw vs OpenClaw Comparison" width="800" />
+  <img src="modalclaw.jpeg" alt="ModalClaw vs OpenClaw Comparison" width="800" />
 </p>
 
 ### ローカルで再現可能な測定
@@ -97,23 +97,23 @@ ZeroClaw は、高速・省リソース・高拡張性を重視した自律エ�
 
 ```bash
 cargo build --release
-ls -lh target/release/zeroclaw
+ls -lh target/release/modalclaw
 
-/usr/bin/time -l target/release/zeroclaw --help
-/usr/bin/time -l target/release/zeroclaw status
+/usr/bin/time -l target/release/modalclaw --help
+/usr/bin/time -l target/release/modalclaw status
 ```
 
 README のサンプル値（macOS arm64, 2026-02-18）:
 
 - Release バイナリ: `8.8M`
-- `zeroclaw --help`: 約 `0.02s`、ピークメモリ 約 `3.9MB`
-- `zeroclaw status`: 約 `0.01s`、ピークメモリ 約 `4.1MB`
+- `modalclaw --help`: 約 `0.02s`、ピークメモリ 約 `3.9MB`
+- `modalclaw status`: 約 `0.01s`、ピークメモリ 約 `4.1MB`
 
 ## ワンクリック導入
 
 ```bash
-git clone https://github.com/zeroclaw-labs/zeroclaw.git
-cd zeroclaw
+git clone https://github.com/modality-org/modalclaw.git
+cd modalclaw
 ./bootstrap.sh
 ```
 
@@ -126,69 +126,69 @@ cd zeroclaw
 ### Homebrew（macOS/Linuxbrew）
 
 ```bash
-brew install zeroclaw
+brew install modalclaw
 ```
 
 ```bash
-git clone https://github.com/zeroclaw-labs/zeroclaw.git
-cd zeroclaw
+git clone https://github.com/modality-org/modalclaw.git
+cd modalclaw
 cargo build --release --locked
 cargo install --path . --force --locked
 
-zeroclaw onboard --api-key sk-... --provider openrouter
-zeroclaw onboard --interactive
+modalclaw onboard --api-key sk-... --provider openrouter
+modalclaw onboard --interactive
 
-zeroclaw agent -m "Hello, ZeroClaw!"
+modalclaw agent -m "Hello, ModalClaw!"
 
 # default: 127.0.0.1:42617
-zeroclaw gateway
+modalclaw gateway
 
-zeroclaw daemon
+modalclaw daemon
 ```
 
 ## Subscription Auth（OpenAI Codex / Claude Code）
 
-ZeroClaw はサブスクリプションベースのネイティブ認証プロファイルをサポートしています（マルチアカウント対応、保存時暗号化）。
+ModalClaw はサブスクリプションベースのネイティブ認証プロファイルをサポートしています（マルチアカウント対応、保存時暗号化）。
 
-- 保存先: `~/.zeroclaw/auth-profiles.json`
-- 暗号化キー: `~/.zeroclaw/.secret_key`
+- 保存先: `~/.modalclaw/auth-profiles.json`
+- 暗号化キー: `~/.modalclaw/.secret_key`
 - Profile ID 形式: `<provider>:<profile_name>`（例: `openai-codex:work`）
 
 OpenAI Codex OAuth（ChatGPT サブスクリプション）:
 
 ```bash
 # サーバー/ヘッドレス環境向け推奨
-zeroclaw auth login --provider openai-codex --device-code
+modalclaw auth login --provider openai-codex --device-code
 
 # ブラウザ/コールバックフロー（ペーストフォールバック付き）
-zeroclaw auth login --provider openai-codex --profile default
-zeroclaw auth paste-redirect --provider openai-codex --profile default
+modalclaw auth login --provider openai-codex --profile default
+modalclaw auth paste-redirect --provider openai-codex --profile default
 
 # 確認 / リフレッシュ / プロファイル切替
-zeroclaw auth status
-zeroclaw auth refresh --provider openai-codex --profile default
-zeroclaw auth use --provider openai-codex --profile work
+modalclaw auth status
+modalclaw auth refresh --provider openai-codex --profile default
+modalclaw auth use --provider openai-codex --profile work
 ```
 
 Claude Code / Anthropic setup-token:
 
 ```bash
 # サブスクリプション/setup token の貼り付け（Authorization header モード）
-zeroclaw auth paste-token --provider anthropic --profile default --auth-kind authorization
+modalclaw auth paste-token --provider anthropic --profile default --auth-kind authorization
 
 # エイリアスコマンド
-zeroclaw auth setup-token --provider anthropic --profile default
+modalclaw auth setup-token --provider anthropic --profile default
 ```
 
 Subscription auth で agent を実行:
 
 ```bash
-zeroclaw agent --provider openai-codex -m "hello"
-zeroclaw agent --provider openai-codex --auth-profile openai-codex:work -m "hello"
+modalclaw agent --provider openai-codex -m "hello"
+modalclaw agent --provider openai-codex --auth-profile openai-codex:work -m "hello"
 
 # Anthropic は API key と auth token の両方の環境変数をサポート:
 # ANTHROPIC_AUTH_TOKEN, ANTHROPIC_OAUTH_TOKEN, ANTHROPIC_API_KEY
-zeroclaw agent --provider anthropic -m "hello"
+modalclaw agent --provider anthropic -m "hello"
 ```
 
 ## アーキテクチャ
@@ -196,12 +196,12 @@ zeroclaw agent --provider anthropic -m "hello"
 すべてのサブシステムは **Trait** — 設定変更だけで実装を差し替え可能、コード変更不要。
 
 <p align="center">
-  <img src="docs/architecture.svg" alt="ZeroClaw アーキテクチャ" width="900" />
+  <img src="docs/architecture.svg" alt="ModalClaw アーキテクチャ" width="900" />
 </p>
 
 | サブシステム | Trait | 内蔵実装 | 拡張方法 |
 |-------------|-------|----------|----------|
-| **AI モデル** | `Provider` | `zeroclaw providers` で確認（現在 28 個の組み込み + エイリアス、カスタムエンドポイント対応） | `custom:https://your-api.com`（OpenAI 互換）または `anthropic-custom:https://your-api.com` |
+| **AI モデル** | `Provider` | `modalclaw providers` で確認（現在 28 個の組み込み + エイリアス、カスタムエンドポイント対応） | `custom:https://your-api.com`（OpenAI 互換）または `anthropic-custom:https://your-api.com` |
 | **チャネル** | `Channel` | CLI, Telegram, Discord, Slack, Mattermost, iMessage, Matrix, Signal, WhatsApp, Linq, Email, IRC, Lark, DingTalk, QQ, Webhook | 任意のメッセージ API |
 | **メモリ** | `Memory` | SQLite ハイブリッド検索, PostgreSQL バックエンド, Lucid ブリッジ, Markdown ファイル, 明示的 `none` バックエンド, スナップショット/復元, オプション応答キャッシュ | 任意の永続化バックエンド |
 | **ツール** | `Tool` | shell/file/memory, cron/schedule, git, pushover, browser, http_request, screenshot/image_info, composio (opt-in), delegate, ハードウェアツール | 任意の機能 |
@@ -219,7 +219,7 @@ zeroclaw agent --provider anthropic -m "hello"
 - ✅ 現在サポート: `runtime.kind = "native"` または `runtime.kind = "docker"`
 - 🚧 計画中（未実装）: WASM / エッジランタイム
 
-未対応の `runtime.kind` が設定された場合、ZeroClaw は native へのサイレントフォールバックではなく、明確なエラーで終了します。
+未対応の `runtime.kind` が設定された場合、ModalClaw は native へのサイレントフォールバックではなく、明確なエラーで終了します。
 
 ### メモリシステム（フルスタック検索エンジン）
 

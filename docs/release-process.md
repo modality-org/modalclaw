@@ -1,4 +1,4 @@
-# ZeroClaw Release Process
+# ModalClaw Release Process
 
 This runbook defines the maintainers' standard release flow.
 

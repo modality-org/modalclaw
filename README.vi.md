@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="zeroclaw.png" alt="ZeroClaw" width="200" />
+  <img src="modalclaw.png" alt="ModalClaw" width="200" />
 </p>
 
-<h1 align="center">ZeroClaw 🦀</h1>
+<h1 align="center">ModalClaw 🦀</h1>
 
 <p align="center">
   <strong>Không tốn thêm tài nguyên. Không đánh đổi. 100% Rust. 100% Đa nền tảng.</strong><br>
@@ -13,13 +13,13 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT%20OR%20Apache%202.0-blue.svg" alt="License: MIT OR Apache-2.0" /></a>
   <a href="NOTICE"><img src="https://img.shields.io/badge/contributors-27+-green.svg" alt="Contributors" /></a>
   <a href="https://buymeacoffee.com/argenistherose"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow.svg?style=flat&logo=buy-me-a-coffee" alt="Buy Me a Coffee" /></a>
-  <a href="https://x.com/zeroclawlabs?s=21"><img src="https://img.shields.io/badge/X-%40zeroclawlabs-000000?style=flat&logo=x&logoColor=white" alt="X: @zeroclawlabs" /></a>
-  <a href="https://zeroclawlabs.cn/group.jpg"><img src="https://img.shields.io/badge/WeChat-Group-B7D7A8?logo=wechat&logoColor=white" alt="WeChat Group" /></a>
+  <a href="https://x.com/modalclawlabs?s=21"><img src="https://img.shields.io/badge/X-%40modalclawlabs-000000?style=flat&logo=x&logoColor=white" alt="X: @modalclawlabs" /></a>
+  <a href="https://modalclawlabs.cn/group.jpg"><img src="https://img.shields.io/badge/WeChat-Group-B7D7A8?logo=wechat&logoColor=white" alt="WeChat Group" /></a>
   <a href="https://www.xiaohongshu.com/user/profile/67cbfc43000000000d008307?xsec_token=AB73VnYnGNx5y36EtnnZfGmAmS-6Wzv8WMuGpfwfkg6Yc%3D&xsec_source=pc_search"><img src="https://img.shields.io/badge/Xiaohongshu-Official-FF2442?style=flat" alt="Xiaohongshu: Official" /></a>
-  <a href="https://t.me/zeroclawlabs"><img src="https://img.shields.io/badge/Telegram-%40zeroclawlabs-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram: @zeroclawlabs" /></a>
-  <a href="https://t.me/zeroclawlabs_cn"><img src="https://img.shields.io/badge/Telegram%20CN-%40zeroclawlabs__cn-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram CN: @zeroclawlabs_cn" /></a>
-  <a href="https://t.me/zeroclawlabs_ru"><img src="https://img.shields.io/badge/Telegram%20RU-%40zeroclawlabs__ru-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram RU: @zeroclawlabs_ru" /></a>
-  <a href="https://www.reddit.com/r/zeroclawlabs/"><img src="https://img.shields.io/badge/Reddit-r%2Fzeroclawlabs-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit: r/zeroclawlabs" /></a>
+  <a href="https://t.me/modalclawlabs"><img src="https://img.shields.io/badge/Telegram-%40modalclawlabs-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram: @modalclawlabs" /></a>
+  <a href="https://t.me/modalclawlabs_cn"><img src="https://img.shields.io/badge/Telegram%20CN-%40modalclawlabs__cn-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram CN: @modalclawlabs_cn" /></a>
+  <a href="https://t.me/modalclawlabs_ru"><img src="https://img.shields.io/badge/Telegram%20RU-%40modalclawlabs__ru-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram RU: @modalclawlabs_ru" /></a>
+  <a href="https://www.reddit.com/r/modalclawlabs/"><img src="https://img.shields.io/badge/Reddit-r%2Fmodalclawlabs-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit: r/modalclawlabs" /></a>
 </p>
 <p align="center">
 Được xây dựng bởi sinh viên và thành viên của các cộng đồng Harvard, MIT và Sundai.Club.
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  ZeroClaw là <strong>hệ điều hành runtime</strong> cho các quy trình làm việc của tác tử — cơ sở hạ tầng trừu tượng hóa mô hình, công cụ, bộ nhớ và thực thi để xây dựng tác tử một lần và chạy ở mọi nơi.
+  ModalClaw là <strong>hệ điều hành runtime</strong> cho các quy trình làm việc của tác tử — cơ sở hạ tầng trừu tượng hóa mô hình, công cụ, bộ nhớ và thực thi để xây dựng tác tử một lần và chạy ở mọi nơi.
 </p>
 
 <p align="center"><code>Kiến trúc trait-driven · mặc định bảo mật · provider/channel/tool hoán đổi tự do · mọi thứ đều dễ mở rộng</code></p>
@@ -63,8 +63,8 @@ Bảng này dành cho các thông báo quan trọng (thay đổi không tương 
 
 | Ngày (UTC) | Mức độ | Thông báo | Hành động |
 |---|---|---|---|
-| 2026-02-19 | _Nghiêm trọng_ | Chúng tôi **không có liên kết** với `openagen/zeroclaw` hoặc `zeroclaw.org`. Tên miền `zeroclaw.org` hiện đang trỏ đến fork `openagen/zeroclaw`, và tên miền/repository đó đang mạo danh website/dự án chính thức của chúng tôi. | Không tin tưởng thông tin, binary, gây quỹ, hay thông báo từ các nguồn đó. Chỉ sử dụng [repository này](https://github.com/zeroclaw-labs/zeroclaw) và các tài khoản mạng xã hội đã được xác minh của chúng tôi. |
-| 2026-02-21 | _Quan trọng_ | Website chính thức của chúng tôi đã ra mắt: [zeroclawlabs.ai](https://zeroclawlabs.ai). Cảm ơn mọi người đã kiên nhẫn chờ đợi. Chúng tôi vẫn đang ghi nhận các nỗ lực mạo danh, vì vậy **không** tham gia bất kỳ hoạt động đầu tư hoặc gây quỹ nào nhân danh ZeroClaw nếu thông tin đó không được công bố qua các kênh chính thức của chúng tôi. | Sử dụng [repository này](https://github.com/zeroclaw-labs/zeroclaw) làm nguồn thông tin duy nhất đáng tin cậy. Theo dõi [X (@zeroclawlabs)](https://x.com/zeroclawlabs?s=21), [Reddit (r/zeroclawlabs)](https://www.reddit.com/r/zeroclawlabs/), [Telegram (@zeroclawlabs)](https://t.me/zeroclawlabs), [Telegram CN (@zeroclawlabs_cn)](https://t.me/zeroclawlabs_cn), [Telegram RU (@zeroclawlabs_ru)](https://t.me/zeroclawlabs_ru), và [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67cbfc43000000000d008307?xsec_token=AB73VnYnGNx5y36EtnnZfGmAmS-6Wzv8WMuGpfwfkg6Yc%3D&xsec_source=pc_search) để nhận cập nhật chính thức. |
+| 2026-02-19 | _Nghiêm trọng_ | Chúng tôi **không có liên kết** với `openagen/modalclaw` hoặc `modalclaw.org`. Tên miền `modalclaw.org` hiện đang trỏ đến fork `openagen/modalclaw`, và tên miền/repository đó đang mạo danh website/dự án chính thức của chúng tôi. | Không tin tưởng thông tin, binary, gây quỹ, hay thông báo từ các nguồn đó. Chỉ sử dụng [repository này](https://github.com/modality-org/modalclaw) và các tài khoản mạng xã hội đã được xác minh của chúng tôi. |
+| 2026-02-21 | _Quan trọng_ | Website chính thức của chúng tôi đã ra mắt: [modalclawlabs.ai](https://modalclawlabs.ai). Cảm ơn mọi người đã kiên nhẫn chờ đợi. Chúng tôi vẫn đang ghi nhận các nỗ lực mạo danh, vì vậy **không** tham gia bất kỳ hoạt động đầu tư hoặc gây quỹ nào nhân danh ModalClaw nếu thông tin đó không được công bố qua các kênh chính thức của chúng tôi. | Sử dụng [repository này](https://github.com/modality-org/modalclaw) làm nguồn thông tin duy nhất đáng tin cậy. Theo dõi [X (@modalclawlabs)](https://x.com/modalclawlabs?s=21), [Reddit (r/modalclawlabs)](https://www.reddit.com/r/modalclawlabs/), [Telegram (@modalclawlabs)](https://t.me/modalclawlabs), [Telegram CN (@modalclawlabs_cn)](https://t.me/modalclawlabs_cn), [Telegram RU (@modalclawlabs_ru)](https://t.me/modalclawlabs_ru), và [Xiaohongshu](https://www.xiaohongshu.com/user/profile/67cbfc43000000000d008307?xsec_token=AB73VnYnGNx5y36EtnnZfGmAmS-6Wzv8WMuGpfwfkg6Yc%3D&xsec_source=pc_search) để nhận cập nhật chính thức. |
 | 2026-02-19 | _Quan trọng_ | Anthropic đã cập nhật điều khoản Xác thực và Sử dụng Thông tin xác thực vào ngày 2026-02-19. Xác thực OAuth (Free, Pro, Max) được dành riêng cho Claude Code và Claude.ai; việc sử dụng OAuth token từ Claude Free/Pro/Max trong bất kỳ sản phẩm, công cụ hay dịch vụ nào khác (bao gồm Agent SDK) đều không được phép và có thể vi phạm Điều khoản Dịch vụ cho Người tiêu dùng. | Vui lòng tạm thời tránh tích hợp Claude Code OAuth để ngăn ngừa khả năng mất mát. Điều khoản gốc: [Authentication and Credential Use](https://code.claude.com/docs/en/legal-and-compliance#authentication-and-credential-use). |
 
 ### ✨ Tính năng
@@ -74,18 +74,18 @@ Bảng này dành cho các thông báo quan trọng (thay đổi không tương 
 - ⚡ **Khởi động lạnh nhanh:** Một binary Rust duy nhất — lệnh và daemon khởi động gần như tức thì.
 - 🌍 **Chạy ở đâu cũng được:** Một binary chạy trên ARM, x86 và RISC-V — provider/channel/tool hoán đổi tự do.
 
-### Vì sao các team chọn ZeroClaw
+### Vì sao các team chọn ModalClaw
 
 - **Mặc định tinh gọn:** binary Rust nhỏ, khởi động nhanh, tốn ít bộ nhớ.
 - **Bảo mật từ gốc:** xác thực ghép cặp, sandbox nghiêm ngặt, allowlist rõ ràng, giới hạn workspace.
 - **Hoán đổi tự do:** mọi hệ thống cốt lõi đều là trait (provider, channel, tool, memory, tunnel).
 - **Không khoá vendor:** hỗ trợ provider tương thích OpenAI + endpoint tùy chỉnh dễ dàng mở rộng.
 
-## So sánh hiệu suất (ZeroClaw vs OpenClaw, có thể tái tạo)
+## So sánh hiệu suất (ModalClaw vs OpenClaw, có thể tái tạo)
 
 Đo nhanh trên máy cục bộ (macOS arm64, tháng 2/2026), quy đổi cho phần cứng edge 0.8GHz.
 
-| | OpenClaw | NanoBot | PicoClaw | ZeroClaw 🦀 |
+| | OpenClaw | NanoBot | PicoClaw | ModalClaw 🦀 |
 |---|---|---|---|---|
 | **Ngôn ngữ** | TypeScript | Python | Go | **Rust** |
 | **RAM** | > 1GB | > 100MB | < 10MB | **< 5MB** |
@@ -93,10 +93,10 @@ Bảng này dành cho các thông báo quan trọng (thay đổi không tương 
 | **Kích thước binary** | ~28MB (dist) | N/A (Scripts) | ~8MB | **3.4 MB** |
 | **Chi phí** | Mac Mini $599 | Linux SBC ~$50 | Linux Board $10 | **Phần cứng bất kỳ $10** |
 
-> Ghi chú: Kết quả ZeroClaw được đo trên release build sử dụng `/usr/bin/time -l`. OpenClaw yêu cầu runtime Node.js (thường thêm ~390MB bộ nhớ overhead), còn NanoBot yêu cầu runtime Python. PicoClaw và ZeroClaw là các static binary. Số RAM ở trên là bộ nhớ runtime; yêu cầu biên dịch lúc build-time sẽ cao hơn.
+> Ghi chú: Kết quả ModalClaw được đo trên release build sử dụng `/usr/bin/time -l`. OpenClaw yêu cầu runtime Node.js (thường thêm ~390MB bộ nhớ overhead), còn NanoBot yêu cầu runtime Python. PicoClaw và ModalClaw là các static binary. Số RAM ở trên là bộ nhớ runtime; yêu cầu biên dịch lúc build-time sẽ cao hơn.
 
 <p align="center">
-  <img src="zero-claw.jpeg" alt="ZeroClaw vs OpenClaw Comparison" width="800" />
+  <img src="modalclaw.jpeg" alt="ModalClaw vs OpenClaw Comparison" width="800" />
 </p>
 
 ### Tự đo trên máy bạn
@@ -105,17 +105,17 @@ Kết quả benchmark thay đổi theo code và toolchain, nên hãy tự đo b�
 
 ```bash
 cargo build --release
-ls -lh target/release/zeroclaw
+ls -lh target/release/modalclaw
 
-/usr/bin/time -l target/release/zeroclaw --help
-/usr/bin/time -l target/release/zeroclaw status
+/usr/bin/time -l target/release/modalclaw --help
+/usr/bin/time -l target/release/modalclaw status
 ```
 
 Ví dụ mẫu (macOS arm64, đo ngày 18 tháng 2 năm 2026):
 
 - Kích thước binary release: `8.8M`
-- `zeroclaw --help`: khoảng `0.02s`, bộ nhớ đỉnh ~`3.9MB`
-- `zeroclaw status`: khoảng `0.01s`, bộ nhớ đỉnh ~`4.1MB`
+- `modalclaw --help`: khoảng `0.02s`, bộ nhớ đỉnh ~`3.9MB`
+- `modalclaw status`: khoảng `0.01s`, bộ nhớ đỉnh ~`4.1MB`
 
 ## Yêu cầu hệ thống
 
@@ -172,10 +172,10 @@ Ví dụ mẫu (macOS arm64, đo ngày 18 tháng 2 năm 2026):
 
 #### Cài bằng một lệnh
 
-Hoặc bỏ qua các bước trên, cài hết mọi thứ (system deps, Rust, ZeroClaw) chỉ bằng một lệnh:
+Hoặc bỏ qua các bước trên, cài hết mọi thứ (system deps, Rust, ModalClaw) chỉ bằng một lệnh:
 
 ```bash
-curl -LsSf https://raw.githubusercontent.com/zeroclaw-labs/zeroclaw/main/scripts/install.sh | bash
+curl -LsSf https://raw.githubusercontent.com/modality-org/modalclaw/main/scripts/install.sh | bash
 ```
 
 #### Yêu cầu tài nguyên biên dịch
@@ -212,15 +212,15 @@ Chỉ cài từ binary, không quay lại build từ source:
 ### Homebrew (macOS/Linuxbrew)
 
 ```bash
-brew install zeroclaw
+brew install modalclaw
 ```
 
 ### Bootstrap một lần bấm
 
 ```bash
 # Khuyến nghị: clone rồi chạy script bootstrap cục bộ
-git clone https://github.com/zeroclaw-labs/zeroclaw.git
-cd zeroclaw
+git clone https://github.com/modality-org/modalclaw.git
+cd modalclaw
 ./bootstrap.sh
 
 # Tùy chọn: cài đặt system dependencies + Rust trên máy mới
@@ -239,7 +239,7 @@ cd zeroclaw
 ./bootstrap.sh --docker
 
 # Tùy chọn: ép dùng Podman làm container CLI
-ZEROCLAW_CONTAINER_CLI=podman ./bootstrap.sh --docker
+MODALCLAW_CONTAINER_CLI=podman ./bootstrap.sh --docker
 
 # Tùy chọn: ở chế độ --docker, bỏ qua build image local và dùng tag local hoặc pull image fallback
 ./bootstrap.sh --docker --skip-build
@@ -248,7 +248,7 @@ ZEROCLAW_CONTAINER_CLI=podman ./bootstrap.sh --docker
 Cài từ xa bằng một lệnh (nên xem trước nếu môi trường nhạy cảm về bảo mật):
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zeroclaw-labs/zeroclaw/main/scripts/bootstrap.sh | bash
+curl -fsSL https://raw.githubusercontent.com/modality-org/modalclaw/main/scripts/bootstrap.sh | bash
 ```
 
 Chi tiết: [`docs/one-click-bootstrap.md`](docs/one-click-bootstrap.md) (chế độ toolchain có thể yêu cầu `sudo` cho các gói hệ thống).
@@ -262,19 +262,19 @@ Release asset được phát hành cho:
 - Windows: `x86_64`
 
 Tải asset mới nhất tại:
-<https://github.com/zeroclaw-labs/zeroclaw/releases/latest>
+<https://github.com/modality-org/modalclaw/releases/latest>
 
 Ví dụ (ARM64 Linux):
 
 ```bash
-curl -fsSLO https://github.com/zeroclaw-labs/zeroclaw/releases/latest/download/zeroclaw-aarch64-unknown-linux-gnu.tar.gz
-tar xzf zeroclaw-aarch64-unknown-linux-gnu.tar.gz
-install -m 0755 zeroclaw "$HOME/.cargo/bin/zeroclaw"
+curl -fsSLO https://github.com/modality-org/modalclaw/releases/latest/download/modalclaw-aarch64-unknown-linux-gnu.tar.gz
+tar xzf modalclaw-aarch64-unknown-linux-gnu.tar.gz
+install -m 0755 modalclaw "$HOME/.cargo/bin/modalclaw"
 ```
 
 ```bash
-git clone https://github.com/zeroclaw-labs/zeroclaw.git
-cd zeroclaw
+git clone https://github.com/modality-org/modalclaw.git
+cd modalclaw
 cargo build --release --locked
 cargo install --path . --force --locked
 
@@ -282,101 +282,101 @@ cargo install --path . --force --locked
 export PATH="$HOME/.cargo/bin:$PATH"
 
 # Cài nhanh (không cần tương tác, có thể chỉ định model)
-zeroclaw onboard --api-key sk-... --provider openrouter [--model "openrouter/auto"]
+modalclaw onboard --api-key sk-... --provider openrouter [--model "openrouter/auto"]
 
 # Hoặc dùng trình hướng dẫn tương tác
-zeroclaw onboard --interactive
+modalclaw onboard --interactive
 
 # Hoặc chỉ sửa nhanh channel/allowlist
-zeroclaw onboard --channels-only
+modalclaw onboard --channels-only
 
 # Chat
-zeroclaw agent -m "Hello, ZeroClaw!"
+modalclaw agent -m "Hello, ModalClaw!"
 
 # Chế độ tương tác
-zeroclaw agent
+modalclaw agent
 
 # Khởi động gateway (webhook server)
-zeroclaw gateway                # mặc định: 127.0.0.1:42617
-zeroclaw gateway --port 0       # cổng ngẫu nhiên (tăng cường bảo mật)
+modalclaw gateway                # mặc định: 127.0.0.1:42617
+modalclaw gateway --port 0       # cổng ngẫu nhiên (tăng cường bảo mật)
 
 # Khởi động runtime tự trị đầy đủ
-zeroclaw daemon
+modalclaw daemon
 
 # Kiểm tra trạng thái
-zeroclaw status
-zeroclaw auth status
+modalclaw status
+modalclaw auth status
 
 # Chạy chẩn đoán hệ thống
-zeroclaw doctor
+modalclaw doctor
 
 # Kiểm tra sức khỏe channel
-zeroclaw channel doctor
+modalclaw channel doctor
 
 # Gắn định danh Telegram vào allowlist
-zeroclaw channel bind-telegram 123456789
+modalclaw channel bind-telegram 123456789
 
 # Lấy thông tin cài đặt tích hợp
-zeroclaw integrations info Telegram
+modalclaw integrations info Telegram
 
 # Lưu ý: Channel (Telegram, Discord, Slack) yêu cầu daemon đang chạy
-# zeroclaw daemon
+# modalclaw daemon
 
 # Quản lý dịch vụ nền
-zeroclaw service install
-zeroclaw service status
-zeroclaw service restart
+modalclaw service install
+modalclaw service status
+modalclaw service restart
 
 # Chuyển dữ liệu từ OpenClaw (chạy thử trước)
-zeroclaw migrate openclaw --dry-run
-zeroclaw migrate openclaw
+modalclaw migrate openclaw --dry-run
+modalclaw migrate openclaw
 ```
 
 > **Chạy trực tiếp khi phát triển (không cần cài toàn cục):** thêm `cargo run --release --` trước lệnh (ví dụ: `cargo run --release -- status`).
 
 ## Xác thực theo gói đăng ký (OpenAI Codex / Claude Code)
 
-ZeroClaw hỗ trợ profile xác thực theo gói đăng ký (đa tài khoản, mã hóa khi lưu).
+ModalClaw hỗ trợ profile xác thực theo gói đăng ký (đa tài khoản, mã hóa khi lưu).
 
-- File lưu trữ: `~/.zeroclaw/auth-profiles.json`
-- Khóa mã hóa: `~/.zeroclaw/.secret_key`
+- File lưu trữ: `~/.modalclaw/auth-profiles.json`
+- Khóa mã hóa: `~/.modalclaw/.secret_key`
 - Định dạng profile id: `<provider>:<profile_name>` (ví dụ: `openai-codex:work`)
 
 OpenAI Codex OAuth (đăng ký ChatGPT):
 
 ```bash
 # Khuyến nghị trên server/headless
-zeroclaw auth login --provider openai-codex --device-code
+modalclaw auth login --provider openai-codex --device-code
 
 # Luồng Browser/callback với fallback paste
-zeroclaw auth login --provider openai-codex --profile default
-zeroclaw auth paste-redirect --provider openai-codex --profile default
+modalclaw auth login --provider openai-codex --profile default
+modalclaw auth paste-redirect --provider openai-codex --profile default
 
 # Kiểm tra / làm mới / chuyển profile
-zeroclaw auth status
-zeroclaw auth refresh --provider openai-codex --profile default
-zeroclaw auth use --provider openai-codex --profile work
+modalclaw auth status
+modalclaw auth refresh --provider openai-codex --profile default
+modalclaw auth use --provider openai-codex --profile work
 ```
 
 Claude Code / Anthropic setup-token:
 
 ```bash
 # Dán token đăng ký/setup (chế độ Authorization header)
-zeroclaw auth paste-token --provider anthropic --profile default --auth-kind authorization
+modalclaw auth paste-token --provider anthropic --profile default --auth-kind authorization
 
 # Lệnh alias
-zeroclaw auth setup-token --provider anthropic --profile default
+modalclaw auth setup-token --provider anthropic --profile default
 ```
 
 Chạy agent với xác thực đăng ký:
 
 ```bash
-zeroclaw agent --provider openai-codex -m "hello"
-zeroclaw agent --provider openai-codex --auth-profile openai-codex:work -m "hello"
+modalclaw agent --provider openai-codex -m "hello"
+modalclaw agent --provider openai-codex --auth-profile openai-codex:work -m "hello"
 
 # Anthropic hỗ trợ cả API key và biến môi trường auth token:
 # ANTHROPIC_AUTH_TOKEN, ANTHROPIC_OAUTH_TOKEN, ANTHROPIC_API_KEY
-zeroclaw agent --provider anthropic -m "hello"
+modalclaw agent --provider anthropic -m "hello"
 ```
 
 ## Kiến trúc
@@ -384,12 +384,12 @@ zeroclaw agent --provider anthropic -m "hello"
 Mọi hệ thống con đều là **trait** — chỉ cần đổi cấu hình, không cần sửa code.
 
 <p align="center">
-  <img src="docs/architecture.svg" alt="ZeroClaw Architecture" width="900" />
+  <img src="docs/architecture.svg" alt="ModalClaw Architecture" width="900" />
 </p>
 
 | Hệ thống con | Trait | Đi kèm sẵn | Mở rộng |
 |-----------|-------|------------|--------|
-| **Mô hình AI** | `Provider` | Danh mục provider qua `zeroclaw providers` (hiện có 28 built-in + alias, cộng endpoint tùy chỉnh) | `custom:https://your-api.com` (tương thích OpenAI) hoặc `anthropic-custom:https://your-api.com` |
+| **Mô hình AI** | `Provider` | Danh mục provider qua `modalclaw providers` (hiện có 28 built-in + alias, cộng endpoint tùy chỉnh) | `custom:https://your-api.com` (tương thích OpenAI) hoặc `anthropic-custom:https://your-api.com` |
 | **Channel** | `Channel` | CLI, Telegram, Discord, Slack, Mattermost, iMessage, Matrix, Signal, WhatsApp, Linq, Email, IRC, Lark, DingTalk, QQ, Webhook | Bất kỳ messaging API nào |
 | **Memory** | `Memory` | SQLite hybrid search, PostgreSQL backend (storage provider có thể cấu hình), Lucid bridge, Markdown files, backend `none` tường minh, snapshot/hydrate, response cache tùy chọn | Bất kỳ persistence backend nào |
 | **Tool** | `Tool` | shell/file/memory, cron/schedule, git, pushover, browser, http_request, screenshot/image_info, composio (opt-in), delegate, hardware tools | Bất kỳ khả năng nào |
@@ -407,7 +407,7 @@ Mọi hệ thống con đều là **trait** — chỉ cần đổi cấu hình, 
 - ✅ Được hỗ trợ hiện nay: `runtime.kind = "native"` hoặc `runtime.kind = "docker"`
 - 🚧 Đã lên kế hoạch, chưa triển khai: WASM / edge runtime
 
-Khi cấu hình `runtime.kind` không được hỗ trợ, ZeroClaw sẽ thoát với thông báo lỗi rõ ràng thay vì âm thầm fallback về native.
+Khi cấu hình `runtime.kind` không được hỗ trợ, ModalClaw sẽ thoát với thông báo lỗi rõ ràng thay vì âm thầm fallback về native.
 
 ### Hệ thống Memory (Search Engine toàn diện)
 
@@ -436,12 +436,12 @@ keyword_weight = 0.3
 # backend = "none" sử dụng no-op memory backend tường minh (không có persistence)
 
 # Tùy chọn: ghi đè storage-provider cho remote memory backend.
-# Khi provider = "postgres", ZeroClaw dùng PostgreSQL để lưu memory.
+# Khi provider = "postgres", ModalClaw dùng PostgreSQL để lưu memory.
 # Khóa db_url cũng chấp nhận alias `dbURL` để tương thích ngược.
 #
 # [storage.provider.config]
 # provider = "postgres"
-# db_url = "postgres://user:password@host:5432/zeroclaw"
+# db_url = "postgres://user:password@host:5432/modalclaw"
 # schema = "public"
 # table = "memories"
 # connect_timeout_secs = 15
@@ -450,17 +450,17 @@ keyword_weight = 0.3
 # sqlite_open_timeout_secs = 30
 
 # Tùy chọn cho backend = "lucid"
-# ZEROCLAW_LUCID_CMD=/usr/local/bin/lucid            # mặc định: lucid
-# ZEROCLAW_LUCID_BUDGET=200                          # mặc định: 200
-# ZEROCLAW_LUCID_LOCAL_HIT_THRESHOLD=3               # số lần hit cục bộ để bỏ qua external recall
-# ZEROCLAW_LUCID_RECALL_TIMEOUT_MS=120               # giới hạn thời gian cho lucid context recall
-# ZEROCLAW_LUCID_STORE_TIMEOUT_MS=800                # timeout đồng bộ async cho lucid store
-# ZEROCLAW_LUCID_FAILURE_COOLDOWN_MS=15000           # thời gian nghỉ sau lỗi lucid, tránh thử lại liên tục
+# MODALCLAW_LUCID_CMD=/usr/local/bin/lucid            # mặc định: lucid
+# MODALCLAW_LUCID_BUDGET=200                          # mặc định: 200
+# MODALCLAW_LUCID_LOCAL_HIT_THRESHOLD=3               # số lần hit cục bộ để bỏ qua external recall
+# MODALCLAW_LUCID_RECALL_TIMEOUT_MS=120               # giới hạn thời gian cho lucid context recall
+# MODALCLAW_LUCID_STORE_TIMEOUT_MS=800                # timeout đồng bộ async cho lucid store
+# MODALCLAW_LUCID_FAILURE_COOLDOWN_MS=15000           # thời gian nghỉ sau lỗi lucid, tránh thử lại liên tục
 ```
 
 ## Bảo mật
 
-ZeroClaw thực thi bảo mật ở **mọi lớp** — không chỉ sandbox. Đáp ứng tất cả các hạng mục trong danh sách kiểm tra bảo mật của cộng đồng.
+ModalClaw thực thi bảo mật ở **mọi lớp** — không chỉ sandbox. Đáp ứng tất cả các hạng mục trong danh sách kiểm tra bảo mật của cộng đồng.
 
 ### Danh sách kiểm tra bảo mật
 
@@ -471,7 +471,7 @@ ZeroClaw thực thi bảo mật ở **mọi lớp** — không chỉ sandbox. Đ
 | 3 | **Phân vùng filesystem (không phải /)** | ✅ | `workspace_only = true` theo mặc định. Chặn 14 thư mục hệ thống + 4 dotfile nhạy cảm. Chặn null byte injection. Phát hiện symlink escape qua canonicalization + kiểm tra resolved-path trong các tool đọc/ghi file. |
 | 4 | **Chỉ truy cập qua tunnel** | ✅ | Gateway từ chối bind công khai khi không có tunnel đang hoạt động. Hỗ trợ Tailscale, Cloudflare, ngrok, hoặc tunnel tùy chỉnh. |
 
-> **Tự chạy nmap:** `nmap -p 1-65535 <your-host>` — ZeroClaw chỉ bind vào localhost, nên không có gì bị lộ ra ngoài trừ khi bạn cấu hình tunnel tường minh.
+> **Tự chạy nmap:** `nmap -p 1-65535 <your-host>` — ModalClaw chỉ bind vào localhost, nên không có gì bị lộ ra ngoài trừ khi bạn cấu hình tunnel tường minh.
 
 ### Allowlist channel (từ chối theo mặc định)
 
@@ -497,13 +497,13 @@ Luồng phê duyệt của operator qua Telegram:
 
 1. Để `[channels_config.telegram].allowed_users = []` để từ chối theo mặc định khi khởi động.
 2. Người dùng không được phép sẽ nhận được gợi ý kèm lệnh operator có thể copy:
-   `zeroclaw channel bind-telegram <IDENTITY>`.
+   `modalclaw channel bind-telegram <IDENTITY>`.
 3. Operator chạy lệnh đó tại máy cục bộ, sau đó người dùng thử gửi tin nhắn lại.
 
 Nếu cần phê duyệt thủ công một lần, chạy:
 
 ```bash
-zeroclaw channel bind-telegram 123456789
+modalclaw channel bind-telegram 123456789
 ```
 
 Nếu bạn không chắc định danh nào cần dùng:
@@ -516,7 +516,7 @@ Nếu bạn thấy cảnh báo ủy quyền trong log (ví dụ: `ignoring messa
 chạy lại channel setup:
 
 ```bash
-zeroclaw onboard --channels-only
+modalclaw onboard --channels-only
 ```
 
 ### Phản hồi media Telegram
@@ -524,7 +524,7 @@ zeroclaw onboard --channels-only
 Telegram định tuyến phản hồi theo **chat ID nguồn** (thay vì username),
 tránh lỗi `Bad Request: chat not found`.
 
-Với các phản hồi không phải văn bản, ZeroClaw có thể gửi file đính kèm Telegram khi assistant bao gồm các marker:
+Với các phản hồi không phải văn bản, ModalClaw có thể gửi file đính kèm Telegram khi assistant bao gồm các marker:
 
 - `[IMAGE:<path-or-url>]`
 - `[DOCUMENT:<path-or-url>]`
@@ -536,7 +536,7 @@ Path có thể là file cục bộ (ví dụ `/tmp/screenshot.png`) hoặc URL H
 
 ### Cài đặt WhatsApp
 
-ZeroClaw hỗ trợ hai backend WhatsApp:
+ModalClaw hỗ trợ hai backend WhatsApp:
 
 - **Chế độ WhatsApp Web** (QR / pair code, không cần Meta Business API)
 - **Chế độ WhatsApp Business Cloud API** (luồng webhook chính thức của Meta)
@@ -548,17 +548,17 @@ ZeroClaw hỗ trợ hai backend WhatsApp:
    cargo build --features whatsapp-web
    ```
 
-2. **Cấu hình ZeroClaw:**
+2. **Cấu hình ModalClaw:**
    ```toml
    [channels_config.whatsapp]
-   session_path = "~/.zeroclaw/state/whatsapp-web/session.db"
+   session_path = "~/.modalclaw/state/whatsapp-web/session.db"
    pair_phone = "15551234567"   # tùy chọn; bỏ qua để dùng luồng QR
    pair_code = ""               # tùy chọn mã pair tùy chỉnh
    allowed_numbers = ["+1234567890"]  # định dạng E.164, hoặc ["*"] cho tất cả
    ```
 
 3. **Khởi động channel/daemon và liên kết thiết bị:**
-   - Chạy `zeroclaw channel start` (hoặc `zeroclaw daemon`).
+   - Chạy `modalclaw channel start` (hoặc `modalclaw daemon`).
    - Làm theo hướng dẫn ghép cặp trên terminal (QR hoặc pair code).
    - Trên WhatsApp điện thoại: **Cài đặt → Thiết bị đã liên kết**.
 
@@ -578,7 +578,7 @@ WhatsApp dùng Cloud API của Meta với webhook (push-based, không phải pol
    - **Phone Number ID:** Từ WhatsApp → API Setup → Phone number ID
    - **Verify Token:** Bạn tự định nghĩa (bất kỳ chuỗi ngẫu nhiên nào) — Meta sẽ gửi lại trong quá trình xác minh webhook
 
-3. **Cấu hình ZeroClaw:**
+3. **Cấu hình ModalClaw:**
    ```toml
    [channels_config.whatsapp]
    access_token = "EAABx..."
@@ -589,7 +589,7 @@ WhatsApp dùng Cloud API của Meta với webhook (push-based, không phải pol
 
 4. **Khởi động gateway với tunnel:**
    ```bash
-   zeroclaw gateway --port 42617
+   modalclaw gateway --port 42617
    ```
    WhatsApp yêu cầu HTTPS, vì vậy hãy dùng tunnel (ngrok, Cloudflare, Tailscale Funnel).
 
@@ -599,13 +599,13 @@ WhatsApp dùng Cloud API của Meta với webhook (push-based, không phải pol
    - **Verify Token:** Giống với `verify_token` trong config của bạn
    - Đăng ký nhận trường `messages`
 
-6. **Kiểm tra:** Gửi tin nhắn đến số WhatsApp Business của bạn — ZeroClaw sẽ phản hồi qua LLM.
+6. **Kiểm tra:** Gửi tin nhắn đến số WhatsApp Business của bạn — ModalClaw sẽ phản hồi qua LLM.
 
 ## Cấu hình
 
-Config: `~/.zeroclaw/config.toml` (được tạo bởi `onboard`)
+Config: `~/.modalclaw/config.toml` (được tạo bởi `onboard`)
 
-Khi `zeroclaw channel start` đang chạy, các thay đổi với `default_provider`,
+Khi `modalclaw channel start` đang chạy, các thay đổi với `default_provider`,
 `default_model`, `default_temperature`, `api_key`, `api_url`, và `reliability.*`
 sẽ được áp dụng nóng vào lần có tin nhắn channel đến tiếp theo.
 
@@ -633,7 +633,7 @@ keyword_weight = 0.3
 # Tùy chọn ghi đè storage-provider từ xa (ví dụ PostgreSQL)
 # [storage.provider.config]
 # provider = "postgres"
-# db_url = "postgres://user:password@host:5432/zeroclaw"
+# db_url = "postgres://user:password@host:5432/modalclaw"
 # schema = "public"
 # table = "memories"
 # connect_timeout_secs = 15
@@ -699,7 +699,7 @@ window_allowlist = []          # gợi ý allowlist tên cửa sổ/process tùy
 #   "action": "mouse_click",
 #   "params": {"x": 640, "y": 360, "button": "left"},
 #   "policy": {"allowed_domains": [...], "window_allowlist": [...], "max_coordinate_x": 3840, "max_coordinate_y": 2160},
-#   "metadata": {"session_name": "...", "source": "zeroclaw.browser", "version": "..."}
+#   "metadata": {"session_name": "...", "source": "modalclaw.browser", "version": "..."}
 # }
 # Response: {"success": true, "data": {...}} hoặc {"success": false, "error": "..."}
 
@@ -718,7 +718,7 @@ format = "openclaw"            # "openclaw" (mặc định, markdown files) ho�
 
 ### Ollama cục bộ và endpoint từ xa
 
-ZeroClaw dùng một khóa provider (`ollama`) cho cả triển khai Ollama cục bộ và từ xa:
+ModalClaw dùng một khóa provider (`ollama`) cho cả triển khai Ollama cục bộ và từ xa:
 
 - Ollama cục bộ: để `api_url` trống, chạy `ollama serve`, và dùng các model như `llama3.2`.
 - Endpoint Ollama từ xa (bao gồm Ollama Cloud): đặt `api_url` thành endpoint từ xa và đặt `api_key` (hoặc `OLLAMA_API_KEY`) khi cần.
@@ -737,16 +737,16 @@ api_key = "ollama_api_key_here"
 
 Cấu hình chi tiết cho endpoint tùy chỉnh tương thích OpenAI và Anthropic, xem [docs/custom-providers.md](docs/custom-providers.md).
 
-## Gói Python đi kèm (`zeroclaw-tools`)
+## Gói Python đi kèm (`modalclaw-tools`)
 
-Với các LLM provider có tool calling native không ổn định (ví dụ: GLM-5/Zhipu), ZeroClaw đi kèm gói Python dùng **LangGraph để gọi tool** nhằm đảm bảo tính nhất quán:
+Với các LLM provider có tool calling native không ổn định (ví dụ: GLM-5/Zhipu), ModalClaw đi kèm gói Python dùng **LangGraph để gọi tool** nhằm đảm bảo tính nhất quán:
 
 ```bash
-pip install zeroclaw-tools
+pip install modalclaw-tools
 ```
 
 ```python
-from zeroclaw_tools import create_agent, shell, file_read
+from modalclaw_tools import create_agent, shell, file_read
 from langchain_core.messages import HumanMessage
 
 # Hoạt động với mọi provider tương thích OpenAI
@@ -773,7 +773,7 @@ Xem [`python/README.md`](python/README.md) để có tài liệu đầy đủ.
 
 ## Hệ thống định danh (Hỗ trợ AIEOS)
 
-ZeroClaw hỗ trợ persona AI **không phụ thuộc nền tảng** qua hai định dạng:
+ModalClaw hỗ trợ persona AI **không phụ thuộc nền tảng** qua hai định dạng:
 
 ### OpenClaw (Mặc định)
 
@@ -785,7 +785,7 @@ Các file markdown truyền thống trong workspace của bạn:
 
 ### AIEOS (AI Entity Object Specification)
 
-[AIEOS](https://aieos.org) là framework chuẩn hóa cho định danh AI di động. ZeroClaw hỗ trợ payload AIEOS v1.1 JSON, cho phép bạn:
+[AIEOS](https://aieos.org) là framework chuẩn hóa cho định danh AI di động. ModalClaw hỗ trợ payload AIEOS v1.1 JSON, cho phép bạn:
 
 - **Import định danh** từ hệ sinh thái AIEOS
 - **Export định danh** sang các hệ thống tương thích AIEOS khác
@@ -847,7 +847,7 @@ aieos_inline = '''
 '''
 ```
 
-ZeroClaw chấp nhận cả payload AIEOS đầy đủ lẫn dạng rút gọn, rồi chuẩn hóa về một định dạng system prompt thống nhất.
+ModalClaw chấp nhận cả payload AIEOS đầy đủ lẫn dạng rút gọn, rồi chuẩn hóa về một định dạng system prompt thống nhất.
 
 #### Các phần trong Schema AIEOS
 
@@ -907,7 +907,7 @@ open_skills_enabled = true
 # open_skills_dir = "/path/to/open-skills"  # tùy chọn
 ```
 
-Bạn cũng có thể ghi đè lúc runtime với `ZEROCLAW_OPEN_SKILLS_ENABLED` và `ZEROCLAW_OPEN_SKILLS_DIR`.
+Bạn cũng có thể ghi đè lúc runtime với `MODALCLAW_OPEN_SKILLS_ENABLED` và `MODALCLAW_OPEN_SKILLS_DIR`.
 
 ## Phát triển
 
@@ -941,7 +941,7 @@ cargo build --release --locked
 cargo install --path . --force --locked
 ```
 
-ZeroClaw được cấu hình để dùng `rustls` cho các dependencies HTTP/TLS; `--locked` giữ cho dependency graph nhất quán trên các môi trường mới.
+ModalClaw được cấu hình để dùng `rustls` cho các dependencies HTTP/TLS; `--locked` giữ cho dependency graph nhất quán trên các môi trường mới.
 
 Để bỏ qua hook khi cần push nhanh trong quá trình phát triển:
 
@@ -982,9 +982,9 @@ Cho triển khai và vận hành runtime:
 - Hướng dẫn triển khai mạng: [docs/network-deployment.md](docs/network-deployment.md)
 - Sổ tay proxy agent: [docs/proxy-agent-playbook.md](docs/proxy-agent-playbook.md)
 
-## Ủng hộ ZeroClaw
+## Ủng hộ ModalClaw
 
-Nếu ZeroClaw giúp ích cho công việc của bạn và bạn muốn hỗ trợ phát triển liên tục, bạn có thể quyên góp tại đây:
+Nếu ModalClaw giúp ích cho công việc của bạn và bạn muốn hỗ trợ phát triển liên tục, bạn có thể quyên góp tại đây:
 
 <a href="https://buymeacoffee.com/argenistherose"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow.svg?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me a Coffee" /></a>
 
@@ -1001,18 +1001,18 @@ Chúng tôi xây dựng công khai vì ý tưởng hay đến từ khắp nơi. 
 
 ## ⚠️ Repository Chính thức & Cảnh báo Mạo danh
 
-**Đây là repository ZeroClaw chính thức duy nhất:**
-> <https://github.com/zeroclaw-labs/zeroclaw>
+**Đây là repository ModalClaw chính thức duy nhất:**
+> <https://github.com/modality-org/modalclaw>
 
-Bất kỳ repository, tổ chức, tên miền hay gói nào khác tuyên bố là "ZeroClaw" hoặc ngụ ý liên kết với ZeroClaw Labs đều là **không được ủy quyền và không liên kết với dự án này**. Các fork không được ủy quyền đã biết sẽ được liệt kê trong [TRADEMARK.md](TRADEMARK.md).
+Bất kỳ repository, tổ chức, tên miền hay gói nào khác tuyên bố là "ModalClaw" hoặc ngụ ý liên kết với ModalClaw Labs đều là **không được ủy quyền và không liên kết với dự án này**. Các fork không được ủy quyền đã biết sẽ được liệt kê trong [TRADEMARK.md](TRADEMARK.md).
 
-Nếu bạn phát hiện hành vi mạo danh hoặc lạm dụng nhãn hiệu, vui lòng [mở một issue](https://github.com/zeroclaw-labs/zeroclaw/issues).
+Nếu bạn phát hiện hành vi mạo danh hoặc lạm dụng nhãn hiệu, vui lòng [mở một issue](https://github.com/modality-org/modalclaw/issues).
 
 ---
 
 ## Giấy phép
 
-ZeroClaw được cấp phép kép để tối đa hóa tính mở và bảo vệ người đóng góp:
+ModalClaw được cấp phép kép để tối đa hóa tính mở và bảo vệ người đóng góp:
 
 | Giấy phép | Trường hợp sử dụng |
 |---|---|
@@ -1023,7 +1023,7 @@ Bạn có thể chọn một trong hai giấy phép. **Người đóng góp tự
 
 ### Nhãn hiệu
 
-Tên **ZeroClaw** và logo là nhãn hiệu của ZeroClaw Labs. Giấy phép này không cấp phép sử dụng chúng để ngụ ý chứng thực hoặc liên kết. Xem [TRADEMARK.md](TRADEMARK.md) để biết các sử dụng được phép và bị cấm.
+Tên **ModalClaw** và logo là nhãn hiệu của ModalClaw Labs. Giấy phép này không cấp phép sử dụng chúng để ngụ ý chứng thực hoặc liên kết. Xem [TRADEMARK.md](TRADEMARK.md) để biết các sử dụng được phép và bị cấm.
 
 ### Bảo vệ người đóng góp
 
@@ -1042,20 +1042,20 @@ Xem [CONTRIBUTING.md](CONTRIBUTING.md) và [CLA.md](CLA.md). Triển khai một 
 - `Tool` mới → `src/tools/`
 - `Memory` mới → `src/memory/`
 - `Tunnel` mới → `src/tunnel/`
-- `Skill` mới → `~/.zeroclaw/workspace/skills/<name>/`
+- `Skill` mới → `~/.modalclaw/workspace/skills/<name>/`
 
 ---
 
-**ZeroClaw** — Không tốn thêm tài nguyên. Không đánh đổi. Triển khai ở đâu cũng được. Thay thế gì cũng được. 🦀
+**ModalClaw** — Không tốn thêm tài nguyên. Không đánh đổi. Triển khai ở đâu cũng được. Thay thế gì cũng được. 🦀
 
 ## Lịch sử Star
 
 <p align="center">
-  <a href="https://www.star-history.com/#zeroclaw-labs/zeroclaw&type=date&legend=top-left">
+  <a href="https://www.star-history.com/#modality-org/modalclaw&type=date&legend=top-left">
     <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zeroclaw-labs/zeroclaw&type=date&theme=dark&legend=top-left" />
-     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zeroclaw-labs/zeroclaw&type=date&legend=top-left" />
-     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zeroclaw-labs/zeroclaw&type=date&legend=top-left" />
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=modality-org/modalclaw&type=date&theme=dark&legend=top-left" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=modality-org/modalclaw&type=date&legend=top-left" />
+     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=modality-org/modalclaw&type=date&legend=top-left" />
     </picture>
   </a>
 </p>
